@@ -20,7 +20,7 @@ cd Week-10
 
 # Install required dependencies
 pip install -r requirements.txt
-
+```
 ## 🚀 Pipeline Performance Summary
 The custom `CustomerChurnPipeline` class unifies all transformations and narrows the data scope down to the **top 8 features** based on tree-based importance rankings using a strict significance selection threshold of >= 0.02.
 
